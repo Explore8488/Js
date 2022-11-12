@@ -1,0 +1,32 @@
+.img{
+    width: 400px;
+    height: 400px;
+}
+.pos{
+   margin: 10%;
+   margin-left: 30%;
+}
+#prev{
+    z-index: 1;
+    position: absolute;
+    top: 50%;
+    right: 67%;  
+}
+
+#prev{
+    z-index: 1;
+    position: absolute;
+    top: 50%;
+    right: 67%;
+    
+}
+#next{
+    z-index: 1;
+    position: absolute;
+    top: 50%;
+    left: 60%;  
+}
+
+.over{
+    visibility:hidden;
+}
